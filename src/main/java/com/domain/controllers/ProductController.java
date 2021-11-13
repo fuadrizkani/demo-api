@@ -1,6 +1,6 @@
 package com.domain.controllers;
 
-import com.domain.models.entities.repos.Product;
+import com.domain.models.entities.Product;
 import com.domain.services.ProductService;
 
 import org.springframework.beans.factory.annotation.Autowired;

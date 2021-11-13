@@ -1,4 +1,4 @@
-package com.domain.models.entities.repos;
+package com.domain.models.entities;
 
 import java.io.Serializable;
 

@@ -5,8 +5,8 @@ import java.util.Optional;
 
 import javax.transaction.Transactional;
 
-import com.domain.models.entities.repos.Product;
-import com.domain.models.entities.repos.ProductRepo;
+import com.domain.models.entities.Product;
+import com.domain.models.repos.ProductRepo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
